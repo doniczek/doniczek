@@ -14,8 +14,6 @@
 
 - 👯 I’m looking to collaborate on **discord app`s**
 
-- 🤝 I’m looking for help with **discord app`s**
-
 
 
 <h3 align="left">Languages and Tools:</h3>
