@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working on **Wind**
 
-- 🌱 I’m currently learning **[nothing]**
+- 🌱 I’m currently learning **About Linux**
 
-- 👯 I’m looking to collaborate on **[nothing]**
+- 👯 I’m looking to collaborate on **discord app`s**
 
 - 🤝 I’m looking for help with **discord app`s**
 
