@@ -8,11 +8,8 @@
 <h1 align="center">Hi 👋, I'm @doniczka</h1>
 <h3 align="center">A passionate backend (Node.Js)</h3>
 
-- 🔭 I’m currently working on **Wind**
+- 🔭 I’m currently working with **FiveStack**
 
-- 🌱 I’m currently learning **About Linux**
-
-- 👯 I’m looking to collaborate on **discord app`s**
 
 <h3 align="left">Contact:</h3>
 - Discord: doniczka (after update) 
