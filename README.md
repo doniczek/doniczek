@@ -5,7 +5,7 @@ Jestem developerem TypeScript z doświadczeniem w tworzeniu aplikacji przy użyc
 ## Stack technologiczny
 
 - **Języki**: TypeScript, JavaScript
-- **Frameworki**: Next.js, React, Express
+- **Frameworki**: Next.js, React, Express, Nest.js
 - **Bazy danych**: MySQL, PostgreSQL, Prisma
 - **Inne narzędzia**: Docker, Coolify, Lavalink, Moonlink.js, Stripe
 
